@@ -57,5 +57,5 @@ Here are some sample outputs from the system:
 ---
 
 ## 📜 **License**
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache 2.0**.
 
